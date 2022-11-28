@@ -10,10 +10,6 @@ Avoid the cubes while the speed progressively increases! Can you beat the rainbo
 <br/>
 <img align="left" width="200" src="./osawards-badge.png">
 <br/>
-<p align="center">
-<a href="https://osawards.com/react/2022"><em>Winner of the 2022 React Open Source Awards in the category Fun Side Project of the Year!</em></a>
-</p>
-<br />
 <br/>
 
 ---
@@ -23,8 +19,6 @@ The game is inspired by an old flash game I used to play in the late 2000s calle
 I went for a synthwave aesthetic, including some self-composed music, which the visual effects are synced to (so turn the music on!).
 
 Also features high scores stored locally.
-
-The development process will be detailed on my [website](https://adamkarlsten.com).
 
 ## Screenshots
 
